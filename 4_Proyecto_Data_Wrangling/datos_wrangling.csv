@@ -1,0 +1,24 @@
+nombre,categoria,precio,ventas,objetivo,fecha,estado,email,telefono,edad,ingreso
+Juan Pérez,Electrónicos,$1250.50,15,20,2023-01-15,activo,juan.perez@email.com,555-1234,28,45000
+María García,,$850.00,12,10,15/02/2023,ACTIVO,maria.garcia@gmail.com,555.5678,35,52000
+Pedro López,Electronicos,1100.00,25,30,2023/03/10,inactivo,pedro@email,5551234,42,
+Ana Martínez,Ropa,450.75,,15,2023-04-20,activo,ana.martinez@hotmail.com,555-9876,29,38000
+Carlos Ruiz,ROPA,null,18,20,20/05/2023,Activo,carlos.ruiz@email.com,555 1111,abc,41000
+,Hogar,320.25,8,12,2023-06-15,inactivo,lucia.torres@,555-2222,31,36000
+Roberto Silva,Hogar,$0,22,25,2023/07/30,activo,roberto.silva@gmail.com,555-3333,48,65000
+Elena Vásquez,Deportes,$780.90,14,18,30/08/2023,,elena.vasquez@email.com,5554444,27,
+Carlos Ruiz,ROPA,null,18,20,20/05/2023,Activo,carlos.ruiz@email.com,555 1111,abc,41000
+José Hernández,deportes,1500,35,30,2023-09-12,activo,jose.hernandez@hotmail,555-5555,55,78000
+Diana Castro,Tecnología,$950.00,16,20,15/10/2023,INACTIVO,diana.castro@email.com,,33,42000
+,Libros,125.50,5,8,2023-11-20,activo,fernando.luna@gmail.com,555-7777,39,35000
+Alberto Sánchez,Viajes,2500.00,30,35,2024/07/10,activo,alberto.sanchez@gmail.com,555-5555,37,85000
+Sandra Morales,libros,#N/A,28,25,2023/12/05,activo,sandra.morales@,555-8888,24,29000
+Miguel Torres,Salud,$675.30,11,15,10/01/2024,inactivo,miguel.torres@email.com,555-9999,46,null
+Alberto Sánchez,Viajes,2500.00,30,35,2024/07/10,activo,alberto.sanchez@gmail.com,555-5555,37,85000
+Andrea López,SALUD,$850,19,,25/02/2024,activo,,555-0000,32,48000
+Francisco Gil,Arte,n/a,7,10,2024-03-15,activo,francisco.gil@hotmail.com,555.1111,28,33000
+Claudia Ruiz,,445.80,13,18,30/04/2024,ACTIVO,claudia.ruiz@gmail.com,5552222,41,57000
+Raúl Mendoza,Música,$1200.00,-5,22,2024-05-20,inactivo,raul.mendoza@email,555-3333,250,62000
+Patricia Jiménez,música,580.90,21,20,15/06/2024,,patricia.jimenez@hotmail.com,555-4444,34,-15000
+Alberto Sánchez,Viajes,2500.00,30,35,2024/07/10,activo,alberto.sanchez@gmail.com,555-5555,37,85000
+Isabel Vargas,viajes,1850.75,26,30,,activo,isabel.vargas@email.com,555-6666,29,71000
